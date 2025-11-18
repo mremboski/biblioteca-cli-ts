@@ -1,0 +1,22 @@
+{
+  "name": "biblioteca-cli",
+  "version": "1.0.0",
+  "description": "Sistema de Biblioteca em TypeScript (POO) rodando 100% no console (CLI).",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.7",
+    "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}

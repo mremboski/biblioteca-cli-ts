@@ -1,0 +1,28 @@
+[
+  {
+    "id": "liv1",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "titulo": "Clean Code",
+    "autor": "Robert C. Martin",
+    "isbn": "978-0132350884",
+    "ano": 2008,
+    "disponivel": false
+  },
+  {
+    "id": "liv2",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "titulo": "Domain-Driven Design",
+    "autor": "Eric Evans",
+    "isbn": "978-0321125217",
+    "ano": 2003,
+    "disponivel": true
+  },
+  {
+    "id": "pztf6w2b",
+    "createdAt": "2025-11-18T22:36:20.745Z",
+    "titulo": "testudo",
+    "autor": "testando",
+    "ano": 2019,
+    "disponivel": false
+  }
+]

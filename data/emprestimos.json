@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tu7q8r58",
+    "createdAt": "2025-11-18T22:33:25.179Z",
+    "livroId": "liv1",
+    "membroId": "mem1",
+    "dataEmprestimo": "2025-11-18T19:33:25-03:00",
+    "dataDevolucaoPrevista": "2025-11-25T19:33:25-03:00",
+    "status": "ATIVO"
+  },
+  {
+    "id": "0qw92yao",
+    "createdAt": "2025-11-18T22:37:46.257Z",
+    "livroId": "pztf6w2b",
+    "membroId": "f678mfnv",
+    "dataEmprestimo": "2025-11-18T19:37:46-03:00",
+    "dataDevolucaoPrevista": "2025-11-28T19:37:46-03:00",
+    "status": "ATIVO"
+  }
+]

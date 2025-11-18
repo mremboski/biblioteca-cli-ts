@@ -1,0 +1,34 @@
+[
+  {
+    "id": "mem1",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "nome": "Ana Silva",
+    "matricula": "A123",
+    "telefone": "(11)99999-0000",
+    "endereco": "Rua A, 100"
+  },
+  {
+    "id": "mem2",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "nome": "Bruno Souza",
+    "matricula": "B456",
+    "telefone": "(11)98888-0000",
+    "endereco": "Rua B, 200"
+  },
+  {
+    "id": "11s4so5x",
+    "createdAt": "2025-11-18T22:08:30.878Z",
+    "nome": "JP",
+    "matricula": "30",
+    "telefone": "53999999",
+    "endereco": "av cu"
+  },
+  {
+    "id": "f678mfnv",
+    "createdAt": "2025-11-18T22:36:39.783Z",
+    "nome": "JP gayzao",
+    "matricula": "69",
+    "telefone": "5399999999",
+    "endereco": "av do cu"
+  }
+]
