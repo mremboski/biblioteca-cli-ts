@@ -26,9 +26,8 @@ export class LivroService {
         if (typeof patch.ano === 'number')
             ent.ano = patch.ano;
         all[idx] = ent.toJSON();
-        await this.repo['writeJSON']?.(all); // fallback if private; but simpler:
-        await this.repo.update(all[idx]); // update one by one
-        return ent;
+        await this.repo['writeJSON']?.(all); 
+        await this.repo.update(all[idx]);
     }
     async remover(id) { await this.repo.remove(id); }
     async marcarDisponibilidade(id, disponivel) {

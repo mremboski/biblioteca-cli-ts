@@ -15,5 +15,5 @@ export abstract class Pessoa extends BaseEntity {
   get telefone(){ return this._telefone; } set telefone(v: string){ this._telefone = nonEmpty('Telefone', v); }
   get endereco(){ return this._endereco; } set endereco(v: string){ this._endereco = nonEmpty('Endereço', v); }
 
-  abstract toDisplay(): string; // polimorfismo
+  abstract toDisplay(): string; 
 }

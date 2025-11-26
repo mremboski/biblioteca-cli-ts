@@ -7,8 +7,8 @@ export class Emprestimo extends BaseEntity {
     id: string,
     public livroId: string,
     public membroId: string,
-    public dataEmprestimo: string, // ISO
-    public dataDevolucaoPrevista: string, // ISO
+    public dataEmprestimo: string, 
+    public dataDevolucaoPrevista: string, 
     public status: EmprestimoStatus = 'ATIVO',
     public dataDevolvido?: string
   ){
